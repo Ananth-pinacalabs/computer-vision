@@ -1,5 +1,10 @@
-<h1 align = "center">A beginners  guide to computer vision</h1>
+<h1 align = "center">A Beginner's  guide to computer vision</h1>
 <p align = "center"> This repository contians a list of notebooks that sysytemaically implements the core concepts of computer vision. The notebooks starts from basic concepts simple image processing techniques and edge detection techniques and work their way up to more complex algorithms and technologies like U-net (for image segmentation)and GANs(for image generation)</p>
+
+<br>
+<br>
+
+The following table give the list of notebooks alongside a simple desciption to each of them 
 
 
 |Notebook | Description |
